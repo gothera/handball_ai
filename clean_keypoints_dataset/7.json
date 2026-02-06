@@ -1,0 +1,372 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3",
+      "points": [
+        [
+          1104.1,
+          404.8
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "15",
+      "points": [
+        [
+          1185.4,
+          451.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "19",
+      "points": [
+        [
+          856.2,
+          426.3
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "16",
+      "points": [
+        [
+          1917.3,
+          861.9
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "7",
+      "points": [
+        [
+          804.9,
+          675.9
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "8",
+      "points": [
+        [
+          839.0,
+          704.8
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "11",
+      "points": [
+        [
+          1117.4,
+          657.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "12",
+      "points": [
+        [
+          1123.1,
+          661.8
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "25",
+      "points": [
+        [
+          1417.1,
+          582.7
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "26",
+      "points": [
+        [
+          1562.7,
+          664.1
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "up",
+      "points": [
+        [
+          1.1,
+          493.0
+        ],
+        [
+          42.7,
+          490.3
+        ],
+        [
+          93.7,
+          486.2
+        ],
+        [
+          146.9,
+          482.3
+        ],
+        [
+          198.1,
+          478.4
+        ],
+        [
+          279.1,
+          472.3
+        ],
+        [
+          329.2,
+          468.1
+        ],
+        [
+          402.5,
+          462.4
+        ],
+        [
+          478.3,
+          456.2
+        ],
+        [
+          552.9,
+          450.3
+        ],
+        [
+          649.9,
+          442.6
+        ],
+        [
+          724.5,
+          436.4
+        ],
+        [
+          824.5,
+          428.3
+        ],
+        [
+          919.6,
+          420.5
+        ],
+        [
+          1011.6,
+          412.3
+        ],
+        [
+          1084.1,
+          406.2
+        ],
+        [
+          1101.1,
+          404.6
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "linestrip",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "down",
+      "points": [
+        [
+          1367.8,
+          1051.0
+        ],
+        [
+          1415.7,
+          1044.5
+        ],
+        [
+          1451.3,
+          1040.1
+        ],
+        [
+          1484.1,
+          1036.0
+        ],
+        [
+          1552.0,
+          1028.4
+        ],
+        [
+          1609.7,
+          1021.6
+        ],
+        [
+          1656.2,
+          1016.3
+        ],
+        [
+          1768.1,
+          1004.1
+        ],
+        [
+          1808.9,
+          999.8
+        ],
+        [
+          1863.9,
+          994.2
+        ],
+        [
+          1887.9,
+          991.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "shape_type": "linestrip",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "right-7m",
+      "points": [
+        [
+          804.8,
+          675.8
+        ],
+        [
+          820.3,
+          689.2
+        ],
+        [
+          837.8,
+          704.3
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "linestrip",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "right-6m",
+      "points": [
+        [
+          896.2,
+          657.4
+        ],
+        [
+          907.2,
+          665.9
+        ],
+        [
+          920.1,
+          675.9
+        ],
+        [
+          931.7,
+          685.2
+        ],
+        [
+          942.9,
+          693.7
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "linestrip",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "right-9m",
+      "points": [
+        [
+          592.4866310160428,
+          683.5561497326203
+        ],
+        [
+          606.1229946524064,
+          696.2566844919786
+        ],
+        [
+          614.8128342245989,
+          704.8128342245989
+        ],
+        [
+          623.6363636363636,
+          714.3048128342245
+        ],
+        [
+          633.2620320855615,
+          723.2620320855615
+        ],
+        [
+          642.4866310160428,
+          732.7540106951872
+        ],
+        [
+          656.7914438502673,
+          745.9893048128342
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "linestrip",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "7.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

@@ -1,0 +1,372 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "points": [
+        [
+          911.5,
+          408.3
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "17",
+      "points": [
+        [
+          1105.8,
+          427.1
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "13",
+      "points": [
+        [
+          848.5,
+          443.7
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "9",
+      "points": [
+        [
+          900.1,
+          604.9
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "10",
+      "points": [
+        [
+          896.9,
+          607.3
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "5",
+      "points": [
+        [
+          1139.4,
+          621.6
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "6",
+      "points": [
+        [
+          1114.3,
+          643.2
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "2",
+      "points": [
+        [
+          156.4,
+          829.1
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "24",
+      "points": [
+        [
+          560.8,
+          603.9
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "23",
+      "points": [
+        [
+          668.9,
+          543.2
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "up",
+      "points": [
+        [
+          911.7,
+          408.1
+        ],
+        [
+          954.0,
+          412.2
+        ],
+        [
+          988.9,
+          415.4
+        ],
+        [
+          1043.7,
+          420.6
+        ],
+        [
+          1092.3,
+          425.2
+        ],
+        [
+          1160.8,
+          431.7
+        ],
+        [
+          1211.3,
+          436.3
+        ],
+        [
+          1278.0,
+          442.6
+        ],
+        [
+          1343.9,
+          448.5
+        ],
+        [
+          1406.6,
+          454.1
+        ],
+        [
+          1498.8,
+          462.6
+        ],
+        [
+          1585.7,
+          470.2
+        ],
+        [
+          1645.5,
+          475.7
+        ],
+        [
+          1697.4,
+          480.3
+        ],
+        [
+          1767.5,
+          486.3
+        ],
+        [
+          1859.5,
+          494.6
+        ],
+        [
+          1910.4,
+          498.9
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "linestrip",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "down",
+      "points": [
+        [
+          155.7,
+          830.6
+        ],
+        [
+          204.7,
+          836.5
+        ],
+        [
+          246.2,
+          841.9
+        ],
+        [
+          291.5,
+          848.2
+        ],
+        [
+          341.9,
+          854.9
+        ],
+        [
+          412.8,
+          864.4
+        ],
+        [
+          460.5,
+          870.9
+        ],
+        [
+          541.1,
+          882.2
+        ],
+        [
+          597.8,
+          890.4
+        ],
+        [
+          653.2,
+          898.2
+        ],
+        [
+          694.3,
+          904.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "linestrip",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left-7m",
+      "points": [
+        [
+          1114.3,
+          643.2
+        ],
+        [
+          1117.0,
+          640.8
+        ],
+        [
+          1133.4,
+          626.5
+        ],
+        [
+          1139.0,
+          621.9
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "linestrip",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left-6m",
+      "points": [
+        [
+          1017.0,
+          649.8
+        ],
+        [
+          1028.7,
+          640.2
+        ],
+        [
+          1041.3,
+          629.9
+        ],
+        [
+          1056.4,
+          618.2
+        ],
+        [
+          1072.9,
+          605.5
+        ],
+        [
+          1079.6,
+          600.4
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "linestrip",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left-9m",
+      "points": [
+        [
+          1258.6080586080586,
+          678.1868131868132
+        ],
+        [
+          1269.96336996337,
+          667.5641025641027
+        ],
+        [
+          1280.2197802197802,
+          656.941391941392
+        ],
+        [
+          1290.8424908424909,
+          646.5018315018316
+        ],
+        [
+          1298.3516483516485,
+          638.4432234432235
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "linestrip",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "4.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}
