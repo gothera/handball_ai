@@ -80,3 +80,6 @@ cat clean_keypoints_dataset/19.json | head 10
 cat clean_keypoints_dataset/19.json | head -n 10
 cat clean_keypoints_dataset/19.json | head -n 50
 pip install omegaconf
+git log
+ls -l
+pwd

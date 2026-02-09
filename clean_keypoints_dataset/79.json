@@ -1,5 +1,5 @@
 {
-  "version": "5.10.1",
+  "version": "5.5.0",
   "flags": {},
   "shapes": [
     {
@@ -395,6 +395,34 @@
       "group_id": null,
       "description": "",
       "shape_type": "linestrip",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "27",
+      "points": [
+        [
+          1913.089005235602,
+          625.0785340314136
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "28",
+      "points": [
+        [
+          1905.2356020942407,
+          741.8324607329843
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
       "flags": {},
       "mask": null
     }

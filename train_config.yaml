@@ -8,8 +8,8 @@ metadata:
   run_name: hrnet48x2_57_003
 data_params:
   input_size: [960, 540]
-  num_keypoints: 57
-  batch_size: 8
+  num_keypoints: 28
+  batch_size: 1
   num_workers: 1
   pin_memory: true
   margin: ${model.params.loss.sigma}
@@ -21,9 +21,9 @@ data_params:
     prob: 0.5
 data:
   train:
-    - /Users/cosmincojocaru/playground/keypoints/keypoints_dataset/hrnet_keypoints_dataset/train
+    - /app/data/clean_keypoints_dataset
   val:
-    - /Users/cosmincojocaru/playground/keypoints/keypoints_dataset/hrnet_keypoints_dataset/val
+    - /app/data/clean_keypoints_dataset
 model:
   _target_: metamodel.HRNetMetaModel
   params:
