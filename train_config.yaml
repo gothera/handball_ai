@@ -30,7 +30,7 @@ model:
     device: cpu
     nn_module:
       num_refinement_stages: 0
-      num_heatmaps: ${model.params.nn_module.hrnet_config.num_classes}
+      num_heatmaps: ${data_params.num_keypoints}
     loss:
       num_refinement_stages: ${model.params.nn_module.num_refinement_stages}
       stride: 2

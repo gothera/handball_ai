@@ -83,3 +83,33 @@ pip install omegaconf
 git log
 ls -l
 pwd
+git branch
+git log
+ls
+clear
+pip install hydra
+pip install hydra-core
+ls
+pwd
+mkdir model_config
+cat train_config.yaml 
+cat model_config/hrnet_w48.yaml 
+cat train_config.yaml 
+head -20 metamodel.py 
+python3 metamodel.py 
+pip install argus
+pip install argus
+python3 metamodel.py 
+python3 metamodel.py 
+pip uninstall argus
+pip install pytorch-argus
+python3 metamodel.py 
+python3 metamodel.py 
+python3 metamodel.py 
+python3 metamodel.py 
+python3 metamodel.py 
+python3 metamodel.py 
+python3 metamodel.py 
+python3 metamodel.py 
+python3 metamodel.py 
+python3 metamodel.py 
